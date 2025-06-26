@@ -1,0 +1,11 @@
+Antenna_ID,Last_Seen_Lat,Last_Seen_Lon,Status,Last_Seen_Site,Predicted_Location,Technician,Date_Last_Seen,Asset_Type
+ANT-1001,-25.771076,28.112074,Refurbished,Tower E,,Nomsa B.,2025-06-20,Yagi Antenna
+ANT-1002,-25.76802,28.113614,Refurbished,Tower E,,Kabelo D.,2025-05-27,Panel
+ANT-1003,-25.762963,28.111948,Missing,Tower E,Tower E,Anele K.,2025-05-28,Omni Antenna
+ANT-1004,-25.767738,28.122705,Refurbished,Tower D,,Zinhle R.,2025-05-29,Panel
+ANT-1005,-25.77179,28.125123,Refurbished,Tower E,,Thabo M.,2025-05-28,Dish
+ANT-1006,-25.778933,28.110748,Refurbished,Tower A,,Nomsa B.,2025-06-15,Dish
+ANT-1007,-25.776065,28.115007,Refurbished,Tower D,,Thabo M.,2025-06-25,Microwave Dish
+ANT-1008,-25.762485,28.112394,Refurbished,Tower A,,Kabelo D.,2025-06-23,Yagi Antenna
+ANT-1009,-25.772971,28.128303,Refurbished,Tower D,,Anele K.,2025-06-06,Panel
+ANT-1010,-25.772307,28.124226,Missing,Tower C,Tower C,Kabelo D.,2025-05-30,Omni Antenna
